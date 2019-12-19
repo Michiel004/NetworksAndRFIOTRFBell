@@ -1,0 +1,69 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'FPGA_CLK_50'
+Slack : -4.734
+TNS   : -4.734
+
+Type  : Slow 1100mV 85C Model Hold 'FPGA_CLK_50'
+Slack : 3.252
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'PLL88|pll_88mhz_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.136
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'FPGA_CLK_50'
+Slack : 9.256
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'FPGA_CLK_50'
+Slack : -4.765
+TNS   : -4.765
+
+Type  : Slow 1100mV 0C Model Hold 'FPGA_CLK_50'
+Slack : 3.402
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'PLL88|pll_88mhz_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.136
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'FPGA_CLK_50'
+Slack : 9.261
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'FPGA_CLK_50'
+Slack : -2.726
+TNS   : -2.726
+
+Type  : Fast 1100mV 85C Model Hold 'FPGA_CLK_50'
+Slack : 1.829
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'PLL88|pll_88mhz_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.136
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'FPGA_CLK_50'
+Slack : 9.224
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'FPGA_CLK_50'
+Slack : -2.710
+TNS   : -2.710
+
+Type  : Fast 1100mV 0C Model Hold 'FPGA_CLK_50'
+Slack : 1.851
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'PLL88|pll_88mhz_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.136
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'FPGA_CLK_50'
+Slack : 9.221
+TNS   : 0.000
+
+------------------------------------------------------------
