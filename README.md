@@ -4,7 +4,7 @@ This is our project for the course Networks And RF at the uhasselt.
 
 
 Made by:
-Lukas Renckens
-Michiel and Pieters
+Lukas Renckens and
+Michiel Pieters
 
 
